@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\49802002810\\Desktop\\arrays\\testar.csproj": {}
+    "C:\\Users\\49802002810\\Desktop\\BACKEND_Eduardo\\Arrays - c#\\intro\\testar.csproj": {}
   },
   "projects": {
-    "C:\\Users\\49802002810\\Desktop\\arrays\\testar.csproj": {
+    "C:\\Users\\49802002810\\Desktop\\BACKEND_Eduardo\\Arrays - c#\\intro\\testar.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\49802002810\\Desktop\\arrays\\testar.csproj",
+        "projectUniqueName": "C:\\Users\\49802002810\\Desktop\\BACKEND_Eduardo\\Arrays - c#\\intro\\testar.csproj",
         "projectName": "testar",
-        "projectPath": "C:\\Users\\49802002810\\Desktop\\arrays\\testar.csproj",
+        "projectPath": "C:\\Users\\49802002810\\Desktop\\BACKEND_Eduardo\\Arrays - c#\\intro\\testar.csproj",
         "packagesPath": "C:\\Users\\49802002810\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\49802002810\\Desktop\\arrays\\obj\\",
+        "outputPath": "C:\\Users\\49802002810\\Desktop\\BACKEND_Eduardo\\Arrays - c#\\intro\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\49802002810\\AppData\\Roaming\\NuGet\\NuGet.Config",

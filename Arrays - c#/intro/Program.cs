@@ -21,10 +21,10 @@
 // nomes[1] = "Gustavo";
 // nomes[2] = "Joao";
 // nomes[3] = "Gabriel";
-// nomes[4] = "Luqueta";
+// nomes[4] = "vinicius";
 
 
-// Console.WriteLine($"O carro bicho é o {carros[3]} do mano {nomes[4]}");
+
 
 
 
